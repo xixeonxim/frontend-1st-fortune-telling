@@ -7,7 +7,7 @@
 | 팀장<br>JS<br>Figma<br>GitHub세팅 | 팀원<br>JS<br>GitHub관리 | 팀원<br>HTML<br>CSS | 팀원<br>HTML<br>CSS |
 <br>
 
-## 🖥️ 기획- (pigma)
+## 🖥️ 기획- (Figma)
 ### 1. 이미지
 <img src="https://github.com/user-attachments/assets/559cd795-28f7-4d56-bc74-4e870963826a" width="300" height="400"/>
 <img src="https://github.com/user-attachments/assets/dc3c7979-f7b9-4f32-bcfd-d67aeb4375fe" width="300" height="400"/>

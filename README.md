@@ -14,6 +14,12 @@
 <br>
 
 ### 2. css 적용
+![Border Radius](https://github.com/user-attachments/assets/cc5bf4e3-4e04-4df1-848a-23c515d9e03e)
+![Colors](https://github.com/
+![Components](https://github.com/user-attachments/assets/c8aedca9-de8d-4540-9472-6c3389402ec7)
+user-attachments/assets/546d3657-
+![Shadows](https://github.com/user-attachments/assets/c318c11f-249d-4fed-899d-a91da8fd1151)
+60cf-4252-8f52-c9f100d38886)
 <img src="https://github.com/user-attachments/assets/cbfee26d-477b-4dd3-9789-070dbd368805" width="900" height="300"/>
 <img src="https://github.com/user-attachments/assets/a9ebd045-d1f0-4b6e-9fbe-55474a3381b4" width="900" height="300"/>
 <img src="https://github.com/user-attachments/assets/df1c4c21-ce44-4d3f-af86-1f14233c4b37" width="900" height="300"/>

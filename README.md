@@ -14,16 +14,10 @@
 <br>
 
 ### 2. css 적용
-![Border Radius](https://github.com/user-attachments/assets/cc5bf4e3-4e04-4df1-848a-23c515d9e03e)
-![Colors](https://github.com/
-![Components](https://github.com/user-attachments/assets/c8aedca9-de8d-4540-9472-6c3389402ec7)
-user-attachments/assets/546d3657-
-![Shadows](https://github.com/user-attachments/assets/c318c11f-249d-4fed-899d-a91da8fd1151)
-60cf-4252-8f52-c9f100d38886)
-<img src="https://github.com/user-attachments/assets/cbfee26d-477b-4dd3-9789-070dbd368805" width="900" height="300"/>
-<img src="https://github.com/user-attachments/assets/a9ebd045-d1f0-4b6e-9fbe-55474a3381b4" width="900" height="300"/>
-<img src="https://github.com/user-attachments/assets/df1c4c21-ce44-4d3f-af86-1f14233c4b37" width="900" height="300"/>
-<img src="https://github.com/user-attachments/assets/9464a3c7-26eb-40f8-8b82-4a05cbbd7939" width="900" height="300"/>
+![Colors](https://github.com/user-attachments/assets/175d0924-0642-41df-8ff9-569d39e988a9)
+![Components](https://github.com/user-attachments/assets/2f033155-7d7e-4ab2-b045-7048ead31192)
+![Border Radius](https://github.com/user-attachments/assets/568bcdb3-bc37-4bb8-8c5a-7545365c3979)
+![Shadows](https://github.com/user-attachments/assets/d0725bc7-8670-4f08-be71-09d97dbd6771)
 <br>
 
 ## 🍦 서비스 소개

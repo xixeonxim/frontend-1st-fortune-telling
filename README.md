@@ -1,10 +1,10 @@
 # FrontEnd - First Project
 
 ## 👻 팀 소개
-| ![KJ](https://github.com/user-attachments/assets/fbbbc0f5-e8ff-4ec0-ba0c-ad86616eab8f) | ![BS](https://github.com/user-attachments/assets/8e0fd65a-9995-4904-aa74-c1c094e32f66) | ![KS](https://github.com/user-attachments/assets/a0106927-4536-4146-b9c7-2964951ac851) |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [김지연](https://github.com/xixeonxim) | [배승혁](https://github.com/devbae1101) | [김승호](https://github.com/KIMSSEUNG) | 
-| 팀장<br>JS<br>Figma<br>GitHub세팅 | 팀원<br>JS<br>GitHub관리 | 팀원<br>HTML<br>CSS |
+| ![KJ](https://github.com/user-attachments/assets/fbbbc0f5-e8ff-4ec0-ba0c-ad86616eab8f) | ![BS](https://github.com/user-attachments/assets/8e0fd65a-9995-4904-aa74-c1c094e32f66) | ![KS](https://github.com/user-attachments/assets/a0106927-4536-4146-b9c7-2964951ac851) | ![GB](https://github.com/user-attachments/assets/a0106927-4536-4146-b9c7-2964951ac851) |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [김지연](https://github.com/xixeonxim) | [배승혁](https://github.com/devbae1101) | [김승호](https://github.com/KIMSSEUNG) | [구본훈](https://github.com/KIMSSEUNG) | 
+| 팀장<br>JS<br>Figma<br>GitHub세팅 | 팀원<br>JS<br>GitHub관리 | 팀원<br>HTML<br>CSS | 팀원<br>HTML<br>CSS |
 <br>
 
 ## 🖥️ 데모 링크 / 시연 영상
@@ -14,6 +14,10 @@
 ## 🍦 서비스 소개
 
 신년맞이 오늘의 운세를 뽑아주는 페이지 제작입니다. html , css로 제작했습니다.
+
+### - 기획 이미지
+<img src="https://github.com/user-attachments/assets/559cd795-28f7-4d56-bc74-4e870963826a" width="300" height="400"/>
+<img src="https://github.com/user-attachments/assets/dc3c7979-f7b9-4f32-bcfd-d67aeb4375fe" width="300" height="400"/>
 
 <br>
 
